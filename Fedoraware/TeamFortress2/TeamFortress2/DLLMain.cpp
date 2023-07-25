@@ -198,7 +198,7 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
 
 	return TRUE;
 }
-
+//
 ////https://www.unknowncheats.me/forum/c-and-c-/63409-write-mindump-crash.html
 //
 //#include <dbghelp.h>
